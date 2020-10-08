@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ctfsrc_1</string>
+    <string name="hint">Please Input Flag{}</string>
+</resources>
