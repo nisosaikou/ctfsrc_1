@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">ctfsrc_1</string>
     <string name="hint">Please Input Flag{}</string>
+    <string name="version_name">nisosaikouctfanisosaikouctfa</string>
 </resources>
